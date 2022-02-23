@@ -1,0 +1,47 @@
+{
+  "achievements": [
+   {
+     "a_id": "coin1",
+     "name": "Coin Master",
+     "description": "Collect 10 Coins",
+     "progress": "0.0"
+   },
+   {
+     "a_id": "coin12",
+     "name": "Coin Master11",
+     "description": "Collect 10 Coins",
+     "progress": "0.4"
+   },
+   {
+     "a_id": "coin13",
+     "name": "Coin 222",
+     "description": "Collect 12 Coins",
+     "progress": "0.3"
+   },
+   {
+     "a_id": "coin14",
+     "name": "Coin 45",
+     "description": "Collect 140 Coins",
+     "progress": "1"
+   }
+   ,
+   {
+     "a_id": "coin15",
+     "name": "Coin hshetr",
+     "description": "Collect 160 Coins",
+     "progress": "0.89"
+   },
+   {
+     "a_id": "coin16",
+     "name": "tthtrh",
+     "description": "Collect 556 Coins",
+     "progress": ".7"
+   },
+   {
+     "a_id": "coin17",
+     "name": "gemd Master",
+     "description": "Collect gr gems",
+     "progress": "0.5"
+   }
+  ]
+}
